@@ -3,7 +3,7 @@
 Learned how to do it from Auquan tutorials. 
 
 
-According to Quantopia it can be more optimized by using:
+According to Quantopia it can be more optimized by using: <br />
 Augmented-Dickey Fuller test <br /> Hurst exponent <br /> Half-life of mean reversion inferred from an Ornstein–Uhlenbeck process <br /> Kalman filters.
 
 I did not check for Cointegration as I took conintegrated stocks namely Walmart and Target. You can check whether the stocks you chose are cointegarated or not by using coint from statsmodels.tsa.stattools
