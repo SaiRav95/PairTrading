@@ -1,4 +1,4 @@
-# PairTrading
+# Pairs Trading
 
 Learned how to do it from Auquan tutorials. 
 
